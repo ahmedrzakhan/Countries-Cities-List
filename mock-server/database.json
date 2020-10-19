@@ -1,0 +1,86 @@
+{
+  "countries": [
+    {
+      "id": "2b4646e1-72d8-4651-bb37-6d2d46dee18e",
+      "country": "India"
+    },
+    {
+      "id": "2b4646e1-72d8-4651-bb37-6d2d46dee18e",
+      "country": "Australia"
+    },
+    {
+      "id": "2b4646e1-72d8-4651-bb37-6d2d46dee18e",
+      "country": "Sri Lanka"
+    },
+    {
+      "id": "dd8db127-1881-4a6e-9e8e-3cf9465bb973",
+      "country": "Russia"
+    },
+    {
+      "id": "8c706540-0e8e-4288-aea1-6eb7f5ea50e6",
+      "country": "England"
+    },
+    {
+      "id": "bdc26ff4-048e-4f8d-93b9-8d0b554c0573",
+      "country": "Sweden"
+    }
+  ],
+  "cities": [
+    {
+      "id": "601c844f4-8ea1-400dds-897a-a98398e7499b",
+      "country": "India",
+      "city": "Mumbai",
+      "population": "12478447",
+      "average_income": "11223",
+      "description": "Mumbai, formerly known as Bombay the official name until 1995) is the capital city of the Indian state of Maharashtra. Mumbai is the most populous city in the country"
+    },
+    {
+      "id": "601c844f4-8ea1-400d-897a-a98398e7499b",
+      "city": "Banglore",
+      "country": "India",
+      "population": "11178447",
+      "average_income": "21222",
+      "description": "Bangalore officially known as Bengaluru is the capital of the Indian state of Karnataka. It has a population of more than 8 million and a metropolitan population of around 11 million, making it the third most populous city in India"
+    },
+    {
+      "id": "eb98321c-6050-4111-9bb1-55d406a114a4",
+      "country": "Australia",
+      "city": "Canberra",
+      "population": "32231",
+      "average_income": "22323",
+      "description": "Canberra is the capital city of Australia. Founded following the federation of the colonies of Australia as the seat of government for the new nation, it is Australia's largest inland city"
+    },
+    {
+      "id": "eb98321c-6050-411e1-9bb1-55d406a114a4",
+      "country": "Hyderabad",
+      "city": "Canberra",
+      "population": "32323231",
+      "average_income": "11567",
+      "description": "Hyderabad is the capital and largest city of the Indian state of Telangana and the de jure capital of Andhra Pradesh. Occupying 625 square kilometres (241 sq mi) along the banks of the Musi River, it is located on the Deccan Plateau in the northern part of South India"
+    },
+    {
+      "id": "eb98321c-6050-4101-9bb1-55d406a114a4",
+      "country": "India",
+      "city": "Chennai",
+      "population": "1123231",
+      "average_income": "33323",
+      "description": "Chennai, also known as Madras the official name until 1996), is the capital of the Indian state of Tamil Nadu. Located on the Coromandel Coast off the Bay of Bengal, it is one of the largest cultural, economic and educational centres of south India."
+    },
+    {
+      "id": "eb98321c-6050-4111-9bc1-55d406a114a4",
+      "country": "Sweden",
+      "city": "StockHolm",
+      "population": "227832",
+      "average_income": "400032",
+      "description": "Stockholm is the capital and most populous urban area of Sweden as well as in Scandinavia. 1 million people live in the municipality, approximately 2 million in the urban area, and 2.4 million in the metropolitan area (Uppsala city (region uppsala not counted)"
+    },
+    {
+      "id": "eb98321c-6050-4111-9bb1-55d40la114a4",
+      "country": "Japan",
+      "city": "Tokyo",
+      "population": "4400322",
+      "average_income": "103323",
+      "description": "Tokyo officially Tokyo Metropolis, is the capital and most populous prefecture of Japan. Located at the head of Tokyo Bay, the prefecture forms part of the Kantō region on the central Pacific coast of Japan's main island, Honshu."
+    }
+  ]
+}

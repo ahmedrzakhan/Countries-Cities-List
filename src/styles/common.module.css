@@ -1,0 +1,18 @@
+.headerStyle {
+  color: #042050;
+  font-weight: 600;
+}
+
+.alignCenter {
+  text-align: center;
+}
+
+.linkStyle {
+  color: #3783be;
+  text-decoration: none;
+}
+
+.editLinkStyle {
+  color: #fff;
+  text-decoration: none;
+}
