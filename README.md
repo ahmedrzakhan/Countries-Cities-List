@@ -8,6 +8,9 @@
 - Html
 - styled-components
 
+## Live URL
+https://countries-cities-list.netlify.app/
+
 ## Instructions to run locally
 ```
 git clone https://github.com/ahmedrzakhan/Countries-Cities-List.git
